@@ -1,0 +1,4 @@
+
+lane :test do
+  xcode_tools_select(version: "10.*")
+end
